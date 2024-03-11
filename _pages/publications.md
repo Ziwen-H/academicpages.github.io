@@ -11,15 +11,15 @@ author_profile: true
 These works provide an overview of my research in multiphase fluid flows.
 {% include base_path %}
 
-:droplet: **Ziwen He**, Marufa Akter Upoma, and Min Y. Pack. "Dual nature of volatility on drop wetting dynamics of acetone–isopropanol mixtures on ultrathin smooth oil films." *Physics of Fluids 35, no. 1 (2023).* Full text available at <a href="https://doi.org/10.1063/5.0131299">{link}</a>.
+* **Ziwen He**, Marufa Akter Upoma, and Min Y. Pack. "Dual nature of volatility on drop wetting dynamics of acetone–isopropanol mixtures on ultrathin smooth oil films." *Physics of Fluids 35, no. 1 (2023).* Full text available at <a href="https://doi.org/10.1063/5.0131299">{link}</a>.
 
-:droplet: **Ziwen He**, Huy Tran, and Min Y. Pack. "Air entrainment dynamics of aqueous polymeric droplets from dilute to semidilute unentangled regimes." *Physics of Fluids 34, no. 11 (2022).* Full text available at <a href="https://doi.org/10.1063/5.0130251">{link}</a>.
+* **Ziwen He**, Huy Tran, and Min Y. Pack. "Air entrainment dynamics of aqueous polymeric droplets from dilute to semidilute unentangled regimes." *Physics of Fluids 34, no. 11 (2022).* Full text available at <a href="https://doi.org/10.1063/5.0130251">{link}</a>.
 
-:droplet: **Ziwen He**, Huy Tran, and Min Y. Pack. "Drop bouncing dynamics on ultrathin films." *Langmuir 37, no. 33 (2021): 10135-10142.* Full text available at <a href="https://doi.org/10.1021/acs.langmuir.1c01510">{link}</a>.
+* **Ziwen He**, Huy Tran, and Min Y. Pack. "Drop bouncing dynamics on ultrathin films." *Langmuir 37, no. 33 (2021): 10135-10142.* Full text available at <a href="https://doi.org/10.1021/acs.langmuir.1c01510">{link}</a>.
 
-:droplet: Tran, Huy, **Ziwen He**, Pooria Pirdavari, and Min Y. Pack. "Interplay of Drop Shedding Mechanisms on High Wettability Contrast Biphilic Stripe-Patterned Surfaces." *Langmuir 39, no. 48 (2023): 17551-17559.* Full text avaiable at <a href="https://doi.org/10.1021/acs.langmuir.3c03042">{link}</a>.
+* Tran, Huy, **Ziwen He**, Pooria Pirdavari, and Min Y. Pack. "Interplay of Drop Shedding Mechanisms on High Wettability Contrast Biphilic Stripe-Patterned Surfaces." *Langmuir 39, no. 48 (2023): 17551-17559.* Full text avaiable at <a href="https://doi.org/10.1021/acs.langmuir.3c03042">{link}</a>.
 
-:droplet: Tran, Huy, **Ziwen He**, Jordan Sakakeeny, Yue Ling, and Min Y. Pack. "Oscillation dynamics of drops on immiscible thin liquid films." *Langmuir 38, no. 3 (2022): 1243-1251.* Full text avaiable at <a href="https://doi.org/10.1021/acs.langmuir.1c03029">{link}</a>.
+* Tran, Huy, **Ziwen He**, Jordan Sakakeeny, Yue Ling, and Min Y. Pack. "Oscillation dynamics of drops on immiscible thin liquid films." *Langmuir 38, no. 3 (2022): 1243-1251.* Full text avaiable at <a href="https://doi.org/10.1021/acs.langmuir.1c03029">{link}</a>.
 
   
 Upcoming papers:
