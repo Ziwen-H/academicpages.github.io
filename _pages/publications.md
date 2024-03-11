@@ -20,6 +20,7 @@ These works provide an overview of my research in multiphase fluid flows.
 :droplet: Tran, Huy, **Ziwen He**, Pooria Pirdavari, and Min Y. Pack. "Interplay of Drop Shedding Mechanisms on High Wettability Contrast Biphilic Stripe-Patterned Surfaces." *Langmuir 39, no. 48 (2023): 17551-17559.* Full text avaiable at <a href="https://doi.org/10.1021/acs.langmuir.3c03042">{link}</a>.
 
 :droplet: Tran, Huy, **Ziwen He**, Jordan Sakakeeny, Yue Ling, and Min Y. Pack. "Oscillation dynamics of drops on immiscible thin liquid films." *Langmuir 38, no. 3 (2022): 1243-1251.* Full text avaiable at <a href="https://doi.org/10.1021/acs.langmuir.1c03029">{link}</a>.
+
   
 Upcoming papers:
 
