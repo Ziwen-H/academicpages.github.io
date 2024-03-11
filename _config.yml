@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Ziwen's Homepage"
 title_separator          : "-"
-name                     : &name "Dr. Ziwen He"
+name                     : &name "Ziwen He"
 description              : &description "Ph.D Baylor University"
 url                      : https://ziwen-h.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,14 +21,14 @@ repository               : "https://ziwen-h.github.io/academicpages.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "Ziwen's profile.png"
+  name             : "Ziwen He"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Ph.D. Mechanical Engineering, Baylor University, 2023"
+  location         : "Minnesota"
+  employer         : "University of Minnesota Twin Cities"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "he000670@umn.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
