@@ -25,15 +25,15 @@ These works provide an overview of my research in multiphase fluid flows.
   
 Upcoming papers:
 
-:pray: Pirdavari, P., Tran, H., **He, Z.**, & Pack, M. Y. (2024). Drainage-induced spontaneous film climbing in capillaries. *Physics of Fluids.* (Under Review)
+* Pirdavari, P., Tran, H., **He, Z.**, & Pack, M. Y. (2024). Drainage-induced spontaneous film climbing in capillaries. *Physics of Fluids.* (Under Review)
 
-:pray: **He, Z.**, Tran, H., & Pack, M. Y. (2024). Capillary wave-assisted collapse of non-Newtonian droplets. *Physical Review Letter.* (Under Review)
+* **He, Z.**, Tran, H., & Pack, M. Y. (2024). Capillary wave-assisted collapse of non-Newtonian droplets. *Physical Review Letter.* (Under Review)
 
-:pray: Tran, H., **He, Z.**, & Pack, M. Y. (2024). Microbubble entrainment on thin liquid films under drop impacts. *Journal of Fluid Mechanics.* (Under Review)
+* Tran, H., **He, Z.**, & Pack, M. Y. (2024). Microbubble entrainment on thin liquid films under drop impacts. *Journal of Fluid Mechanics.* (Under Review)
 
-:pray: Upoma, M. A., **He, Z.**, Tran, H., & Pack, M. Y. (2024). Extensional Rheological Effects of Dye-Polymer Solutions. *Physics of Fluids.* (Under Review)
+* Upoma, M. A., **He, Z.**, Tran, H., & Pack, M. Y. (2024). Extensional Rheological Effects of Dye-Polymer Solutions. *Physics of Fluids.* (Under Review)
 
-:pray: Pirdavari, P., Pourfattah, F., Tran, H., Wang, L., **He, Z.**, & Pack, M. Y. (2023). Experimental and numerical study on the performance index of mixing for low aspect ratio serpentine microchannels. *Journal of Micromechanics and Microengineering.* (Under Review)
+* Pirdavari, P., Pourfattah, F., Tran, H., Wang, L., **He, Z.**, & Pack, M. Y. (2023). Experimental and numerical study on the performance index of mixing for low aspect ratio serpentine microchannels. *Journal of Micromechanics and Microengineering.* (Under Review)
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
