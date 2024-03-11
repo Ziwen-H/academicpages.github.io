@@ -22,6 +22,7 @@ These works provide an overview of my research in multiphase fluid flows.
 :droplet: Tran, Huy, **Ziwen He**, Jordan Sakakeeny, Yue Ling, and Min Y. Pack. "Oscillation dynamics of drops on immiscible thin liquid films." *Langmuir 38, no. 3 (2022): 1243-1251.* Full text avaiable at <a href="https://doi.org/10.1021/acs.langmuir.1c03029">{link}</a>.
   
 Upcoming papers:
+
 :pray: Pirdavari, P., Tran, H., **He, Z.**, & Pack, M. Y. (2024). Drainage-induced spontaneous film climbing in capillaries. *Physics of Fluids.* (Under Review)
 
 :pray: **He, Z.**, Tran, H., & Pack, M. Y. (2024). Capillary wave-assisted collapse of non-Newtonian droplets. *Physical Review Letter.* (Under Review)
