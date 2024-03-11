@@ -21,7 +21,7 @@ repository               : "https://ziwen-h.github.io/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Ziwen's profile.png"
+  avatar           : "Ziwen.png"
   name             : "Ziwen He"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Ph.D. ME, Baylor University, 2023"
