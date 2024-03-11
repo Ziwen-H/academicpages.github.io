@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
 author_profile: true
 ---
 
@@ -22,11 +21,11 @@ These works provide an overview of my research in multiphase fluid flows.
 * Tran, Huy, **Ziwen He**, Jordan Sakakeeny, Yue Ling, and Min Y. Pack. "Oscillation dynamics of drops on immiscible thin liquid films." *Langmuir 38, no. 3 (2022): 1243-1251.* Full text avaiable at <a href="https://doi.org/10.1021/acs.langmuir.1c03029">{link}</a>.
   
 Upcoming papers:
-* Pirdavari, P., Tran, H., **He, Z.**, & Pack, M. Y. (2024). Drainage-induced spontaneous film climbing in capillaries. </i>Physics of Fluids.</i> (Under Review)
-* **He, Z.***, Tran, H., & Pack, M. Y. (2024). Capillary wave-assisted collapse of non-Newtonian droplets. </i>Physical Review Letter.</i> (Under Review)
-* Tran, H., **He, Z.**, & Pack, M. Y. (2024). Microbubble entrainment on thin liquid films under drop impacts. </i>Journal of Fluid Mechanics.</i> (Under Review)
-* Upoma, M. A., **He, Z.**, Tran, H., & Pack, M. Y. (2024). Extensional Rheological Effects of Dye-Polymer Solutions. </i>Physics of Fluids.</i> (Under Review)
-* Pirdavari, P., Pourfattah, F., Tran, H., Wang, L., **He, Z.**, & Pack, M. Y. (2023). Experimental and numerical study on the performance index of mixing for low aspect ratio serpentine microchannels. </i>Journal of Micromechanics and Microengineering.</i> (Under Review)
+* Pirdavari, P., Tran, H., **He, Z.**, & Pack, M. Y. (2024). Drainage-induced spontaneous film climbing in capillaries. *Physics of Fluids.* (Under Review)
+* **He, Z.***, Tran, H., & Pack, M. Y. (2024). Capillary wave-assisted collapse of non-Newtonian droplets. *Physical Review Letter.* (Under Review)
+* Tran, H., **He, Z.**, & Pack, M. Y. (2024). Microbubble entrainment on thin liquid films under drop impacts. *Journal of Fluid Mechanics.* (Under Review)
+* Upoma, M. A., **He, Z.**, Tran, H., & Pack, M. Y. (2024). Extensional Rheological Effects of Dye-Polymer Solutions. *Physics of Fluids.* (Under Review)
+* Pirdavari, P., Pourfattah, F., Tran, H., Wang, L., **He, Z.**, & Pack, M. Y. (2023). Experimental and numerical study on the performance index of mixing for low aspect ratio serpentine microchannels. *Journal of Micromechanics and Microengineering.* (Under Review)
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
