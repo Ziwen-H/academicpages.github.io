@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-:bug: I'm a postdoctoral research associate at the University of Minnesota Twin Cities in the Department of Chemical Engineering and Materials Science.
+:mega: I'm a postdoctoral research associate at the University of Minnesota Twin Cities in the Department of Chemical Engineering and Materials Science.
 
 :books: My research focuses on interfacial fluid phenomena including liquid-solid, liquid-liquid multiphase flows as well as the effect of rheology involved. For now, I am working on the collapse of a alveolar-sized bubble using a customized microtensiometer, aiming to understand the role of interfacial rheology in the adsorption of lung surfactants onto a monalayer.
 
