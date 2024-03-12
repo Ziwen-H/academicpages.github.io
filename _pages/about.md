@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# ![Contact bouncing cascad](/images/Contact_bouncing.png)<div class="align-right" style="width: 300px;"></div>
 
 * I'm a postdoctoral research associate at the University of Minnesota Twin Cities in the Department of Chemical Engineering and Materials Science.
 
