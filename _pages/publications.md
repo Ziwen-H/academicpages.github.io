@@ -33,7 +33,7 @@ Upcoming papers:
 
 * Upoma, M. A., **He, Z.**, Tran, H., & Pack, M. Y. (2024). Extensional Rheological Effects of Dye-Polymer Solutions. *Physics of Fluids.* (Under Review)
 
-* Pirdavari, P., Pourfattah, F., Tran, H., Wang, L., **He, Z.**, & Pack, M. Y. (2023). Experimental and numerical study on the performance index of mixing for low aspect ratio serpentine microchannels. *Journal of Micromechanics and Microengineering.* (Under Review)
+* Pirdavari, P., Pourfattah, F., Tran, H., Wang, L., **He, Z.**, & Pack, M. Y. (2024). Experimental and numerical study on the performance index of mixing for low aspect ratio serpentine microchannels. *Journal of Micromechanics and Microengineering.* (Under Review)
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
