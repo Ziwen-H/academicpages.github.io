@@ -18,7 +18,7 @@ These works provide an overview of my research in multiphase fluid flows.
 
 * **Ziwen He**, Huy Tran, and Min Y. Pack. "Drop bouncing dynamics on ultrathin films." *Langmuir 37, no. 33 (2021): 10135-10142.* Full text available at <a href="https://doi.org/10.1021/acs.langmuir.1c01510">{link}</a>.
 
-* Upoma, M. A., **He, Z.**, Tran, H., & Pack, M. Y. (2024). Extensional Rheological Effects of Dye-Polymer Solutions. *Langmuir.* Full text available at <a href="">{link}</a>
+* Upoma, M. A., **He, Z.**, Tran, H., & Pack, M. Y. (2024). Effects of Dye Addition on the Rheological Properties of Aqueous Polymer Solutions. *Langmuir.* Full text available at <a href="">{link}</a>
 
 * Pirdavari, P., Pourfattah, F., Tran, H., Wang, L., **He, Z.**, & Pack, M. Y. (2024). Experimental and numerical study on the performance index of mixing for low aspect ratio serpentine microchannels. *Engineering Research Express.* Full text available at <a href="">{link}
   
