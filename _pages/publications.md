@@ -12,6 +12,10 @@ author_profile: true
 These works provide an overview of my research in multiphase fluid flows.
 {% include base_path %}
 
+* Tran, H., **He, Z.**, & Pack, M. Y. (2024). Microbubble entrainment on thin liquid films under drop impacts. *Journal of Colloid And Interface Science (2024)* Full text available at <a href="https://doi.org/10.1016/j.jcis.2024.11.236">{link}</a>.
+  
+* **He, Z.**, Tran, H., & Pack, M. Y. (2024). Capillary wave-assisted collapse of non-Newtonian droplets. *Physics of Fluids.* Full text available at <a href="https://doi.org/10.1063/5.0231029">{link}</a>.
+
 * Pirdavari, P., Tran, H., **He, Z.**, & Pack, M. Y. (2024). Drainage-induced spontaneous film climbing in capillaries. *Physics Review Fluids.* Full text available at <a href="https://doi.org/10.1103/PhysRevFluids.9.094005">{link}</a>.
 
 * Upoma, M. A., **He, Z.**, Tran, H., & Pack, M. Y. (2024). Effects of Dye Addition on the Rheological Properties of Aqueous Polymer Solutions. *Langmuir.* Full text available at <a href="https://pubs.acs.org/doi/full/10.1021/acs.langmuir.4c01533">{link}</a>.
@@ -33,10 +37,6 @@ These works provide an overview of my research in multiphase fluid flows.
 
   
 Upcoming papers:
-
-* **He, Z.**, Tran, H., & Pack, M. Y. (2024). Capillary wave-assisted collapse of non-Newtonian droplets. *Physics of Fluids.* (In Press)
-
-* Tran, H., **He, Z.**, & Pack, M. Y. (2024). Microbubble entrainment on thin liquid films under drop impacts. *Nature Communication.* (Under Review)
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
