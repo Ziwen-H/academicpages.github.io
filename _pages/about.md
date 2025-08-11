@@ -17,11 +17,18 @@ redirect_from:
 - *2025.02*: New Acceptance from ACS 🎉🎉 Adsorption Dynamics and Interfacial Morphology of Lung Surfactant
   
 # 📝 Publications 
-* Tran, H., **He, Z.**, & Pack, M. Y. (2024). Microbubble entrainment on thin liquid films under drop impacts. *Journal of Colloid And Interface Science (2024)* Full text available at <a href="https://doi.org/10.1016/j.jcis.2024.11.236">{link}</a>.
+* Tran, H., **He, Z.**, & Pack, M. Y. (2025). Microbubble entrainment on thin liquid films under drop impacts. *Journal of Colloid And Interface Science (2024)* Full text available at <a href="https://doi.org/10.1016/j.jcis.2024.11.236">{link}</a>.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ee63fa30-75cf-4eac-92d7-4d1b3821b7e4" alt="Microbubble" width="500"><br>
   <em>Figure: Microbubble formation on an inclined oil film</em>
+</p>
+
+* Boxun Huang, Steven V. Iasella, Meenal Rathi, Joseph Hassler, Clara O. Ciutara, **Ziwen He**, David C. Morse, and Joseph A. Zasadzinski. "New experiments and models to describe soluble surfactant adsorption above and below the critical micelle concentration." *Journal of Colloid And Interface Science (2025).* Full text available at <a href="https://doi.org/10.1016/j.jcis.2024.07.204">{link}</a>.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ac619c9-0eaa-42b5-8016-f9858fab512e" alt="LysoPC" width="500"><br>
+  <em>Figure: Characterizing adsorption dynamics of soluble surfactants below and above CMC using Microtensiometer </em>
 </p>
 
 * **He, Z.**, Tran, H., & Pack, M. Y. (2024). Capillary wave-assisted collapse of non-Newtonian droplets. *Physics of Fluids.* Full text available at <a href="https://doi.org/10.1063/5.0231029">{link}</a>.
@@ -30,7 +37,6 @@ redirect_from:
   <img src="https://github.com/user-attachments/assets/9a093b0f-d009-4bdc-aaf0-b1638bc28223" alt="Capillary wave on shear-thinning drops" width="500"><br>
   <em>Figure: A schematic of the combined RIM-TIRM technique and the droplet impact setup (not to scale)</em>
 </p>
-
 
 * Pirdavari, P., Tran, H., **He, Z.**, & Pack, M. Y. (2024). Drainage-induced spontaneous film climbing in capillaries. *Physics Review Fluids.* Full text available at <a href="https://doi.org/10.1103/PhysRevFluids.9.094005">{link}</a>.
 
@@ -54,12 +60,6 @@ redirect_from:
   <em>Figure: Mixing performance at different Dean numbers for the microfluidic channel with the aspect ratio = 0.1</em>
 </p>
 
-* Boxun Huang, Steven V. Iasella, Meenal Rathi, Joseph Hassler, Clara O. Ciutara, **Ziwen He**, David C. Morse, and Joseph A. Zasadzinski. "New experiments and models to describe soluble surfactant adsorption above and below the critical micelle concentration." *Journal of Colloid And Interface Science (2024).* Full text available at <a href="https://doi.org/10.1016/j.jcis.2024.07.204">{link}</a>.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6ac619c9-0eaa-42b5-8016-f9858fab512e" alt="LysoPC" width="500"><br>
-  <em>Figure: Characterizing adsorption dynamics of soluble surfactants below and above CMC using Microtensiometer </em>
-</p>
 
 * **Ziwen He**, Marufa Akter Upoma, and Min Y. Pack. "Dual nature of volatility on drop wetting dynamics of acetone–isopropanol mixtures on ultrathin smooth oil films." *Physics of Fluids 35, no. 1 (2023).* Full text available at <a href="https://doi.org/10.1063/5.0131299">{link}</a>.
 
