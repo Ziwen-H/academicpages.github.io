@@ -24,7 +24,7 @@ redirect_from:
   <em>Figure: Microbubble formation on an inclined oil film</em>
 </p>
 
-* Boxun Huang, Steven V. Iasella, Meenal Rathi, Joseph Hassler, Clara O. Ciutara, **Ziwen He**, David C. Morse, and Joseph A. Zasadzinski. "New experiments and models to describe soluble surfactant adsorption above and below the critical micelle concentration." *Journal of Colloid And Interface Science (2025).* Full text available at <a href="https://doi.org/10.1016/j.jcis.2024.07.204">{link}</a>.
+* Boxun Huang, Steven V. Iasella, Meenal Rathi, Joseph Hassler, Clara O. Ciutara, **Ziwen He**, David C. Morse, and Joseph A. Zasadzinski. (2025). "New experiments and models to describe soluble surfactant adsorption above and below the critical micelle concentration." *Journal of Colloid And Interface Science.* Full text available at <a href="https://doi.org/10.1016/j.jcis.2024.07.204">{link}</a>.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6ac619c9-0eaa-42b5-8016-f9858fab512e" alt="LysoPC" width="500"><br>
