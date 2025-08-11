@@ -20,7 +20,7 @@ redirect_from:
 * Tran, H., **He, Z.**, & Pack, M. Y. (2024). Microbubble entrainment on thin liquid films under drop impacts. *Journal of Colloid And Interface Science (2024)* Full text available at <a href="https://doi.org/10.1016/j.jcis.2024.11.236">{link}</a>.
 
 <p align="center"> 
-  <img src=" (https://github.com/user-attachments/assets/ee63fa30-75cf-4eac-92d7-4d1b3821b7e4)" alt="Microbubble"> 
+  <img src=" !(https://github.com/user-attachments/assets/ee63fa30-75cf-4eac-92d7-4d1b3821b7e4)" alt="Microbubble"> 
 </p>
  
 
