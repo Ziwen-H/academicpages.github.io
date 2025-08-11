@@ -13,6 +13,9 @@ These works provide an overview of my research in multiphase fluid flows.
 {% include base_path %}
 
 * Tran, H., **He, Z.**, & Pack, M. Y. (2024). Microbubble entrainment on thin liquid films under drop impacts. *Journal of Colloid And Interface Science (2024)* Full text available at <a href="https://doi.org/10.1016/j.jcis.2024.11.236">{link}</a>.
+
+  ![Microbubble](https://github.com/user-attachments/assets/ee63fa30-75cf-4eac-92d7-4d1b3821b7e4)
+
   
 * **He, Z.**, Tran, H., & Pack, M. Y. (2024). Capillary wave-assisted collapse of non-Newtonian droplets. *Physics of Fluids.* Full text available at <a href="https://doi.org/10.1063/5.0231029">{link}</a>.
 
