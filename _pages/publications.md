@@ -9,17 +9,28 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-These works provide an overview of my research in multiphase fluid flows.
-{% include base_path %}
-
+# 🔥 News
+- *2025.07*: New Acceptance from AICHE;🎉🎉 Direct Measurement of Line Tension, Diffusivity, and Young’s Modulus in Lung Surfactant Monolayers Using a Customized Microtensiometer–Confocal Platform
+- *2025.07*: New Acceptance from AICHE;🎉🎉 Interfacial Morphology Characterization of Lung Surfactants on Curved Surfaces Using Microtensiometer
+- *2025.06*: Understanding Limiting Low Surface Tension Behavior and Measuring Line Tension in Lung Surfactant Monolayers
+- *2025.02*: New Acceptance from ACS;🎉🎉 Adsorption Dynamics and Interfacial Morphology of Lung Surfactant
+  
+# 📝 Publications 
 * Tran, H., **He, Z.**, & Pack, M. Y. (2024). Microbubble entrainment on thin liquid films under drop impacts. *Journal of Colloid And Interface Science (2024)* Full text available at <a href="https://doi.org/10.1016/j.jcis.2024.11.236">{link}</a>.
 
   ![Microbubble](https://github.com/user-attachments/assets/ee63fa30-75cf-4eac-92d7-4d1b3821b7e4)
-This work characterzied radially-formed microbubble entrainment induced by water droplets impacting an immiscible thin oil film at different impact heights and inclinations. We first identified a large-area microbublles (LAMs) which was later attributed to visco-capillary contact line dynamics. Multiple microbubble trains were observed by introducing surface inclinaion. LAMs was gradually diminished with increasing inertia, so we are able to determine an optimum for maximum entrainment area experimentally which is important for applications such as spray coating/cooling and agricultural applications. Future numerical modeling could provide valubable insights into the underlying instability mechanisms.
+
+* This work characterzied radially-formed microbubble entrainment induced by water droplets impacting an immiscible thin oil film at different impact heights and inclinations. We first identified a large-area microbublles (LAMs) which was later attributed to visco-capillary contact line dynamics. Multiple microbubble trains were observed by introducing surface inclinaion. LAMs was gradually diminished with increasing inertia, so we are able to determine an optimum for maximum entrainment area experimentally which is important for applications such as spray coating/cooling and agricultural applications. Future numerical modeling could provide valubable insights into the underlying instability mechanisms.
 
 * **He, Z.**, Tran, H., & Pack, M. Y. (2024). Capillary wave-assisted collapse of non-Newtonian droplets. *Physics of Fluids.* Full text available at <a href="https://doi.org/10.1063/5.0231029">{link}</a>.
 
+![Capillary wave](https://github.com/user-attachments/assets/9a093b0f-d009-4bdc-aaf0-b1638bc28223)
+
+* This study “Capillary wave-assisted collapse of non-Newtonian droplets” investigates how capillary waves—surface-tension-driven ripples—govern the collapse dynamics of impacting non-Newtonian droplets. By comparing Newtonian, shear-thinning, and Boger fluids, the authors show that despite the biaxial extensional nature of the deformation, it is the infinite-shear viscosity that primarily controls capillary-wave formation and propagation across all fluid types. Crucially, they demonstrate that the evolution of these waves can be used to pinpoint key rheological transition points, including the polymer overlap (c⁎) and entanglement (c^⁎⁎) concentrations, providing a dynamic, non-intrusive method for characterizing complex fluids with implications for applications such as printing, coating, and spraying.
+
 * Pirdavari, P., Tran, H., **He, Z.**, & Pack, M. Y. (2024). Drainage-induced spontaneous film climbing in capillaries. *Physics Review Fluids.* Full text available at <a href="https://doi.org/10.1103/PhysRevFluids.9.094005">{link}</a>.
+
+
 
 * Upoma, M. A., **He, Z.**, Tran, H., & Pack, M. Y. (2024). Effects of Dye Addition on the Rheological Properties of Aqueous Polymer Solutions. *Langmuir.* Full text available at <a href="https://pubs.acs.org/doi/full/10.1021/acs.langmuir.4c01533">{link}</a>.
 
