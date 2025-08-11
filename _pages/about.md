@@ -28,27 +28,46 @@ redirect_from:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9a093b0f-d009-4bdc-aaf0-b1638bc28223" alt="Capillary wave on shear-thinning drops" width="500"><br>
-  <em>Figure: A schematic of the combined RIM-TIRM technique and the droplet impact setup (not to scale). The side-view impact was captured using a 150-W AmScope fiber optic light or a Phlox light emitting diode (LED) panel and the bottom views (RIM and TIRM) were illuminated by collimated LED with a wavelength of 625 nm. (b) Snapshots of dimple collapse from RIM and TIRM highlighted by the red dashed circle. Droplet deformation (top row) and the corresponding evolution of the air layer morphologies captured by TIRM (middle row) and RIM (bottom row) for (c) G/W 78 wt. %, (d) XG 250 ppm, and (e) Boger droplets at We ≈ 5, where the time is normalized by the inertio-capillary timescale. The scale bar represents 0.5 mm. Multimedia available online.</em>
+  <em>Figure: A schematic of the combined RIM-TIRM technique and the droplet impact setup (not to scale)</em>
 </p>
 
 
 * Pirdavari, P., Tran, H., **He, Z.**, & Pack, M. Y. (2024). Drainage-induced spontaneous film climbing in capillaries. *Physics Review Fluids.* Full text available at <a href="https://doi.org/10.1103/PhysRevFluids.9.094005">{link}</a>.
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c8b2e1e0-2c72-41e7-b00c-6cb10267b7d2" alt="drainage tube" width="500"><br>
+  <em>Figure: Schematic and experimental representation of postdrainage dynamics</em>
+</p>
 
 * Upoma, M. A., **He, Z.**, Tran, H., & Pack, M. Y. (2024). Effects of Dye Addition on the Rheological Properties of Aqueous Polymer Solutions. *Langmuir.* Full text available at <a href="https://pubs.acs.org/doi/full/10.1021/acs.langmuir.4c01533">{link}</a>.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a22b8f24-e1ca-4f16-963c-8d91649c24df" alt="Light Polymer" width="500"><br>
+  <em>Figure: Dripping onto substrate (DoS) setup for light-induced polymer degradation study</em>
+</p>
+
 
 * Pirdavari, P., Pourfattah, F., Tran, H., Wang, L., **He, Z.**, & Pack, M. Y. (2024). Experimental and numerical study on the performance index of mixing for low aspect ratio serpentine microchannels. *Engineering Research Express.* Full text available at <a href="https://iopscience.iop.org/article/10.1088/2631-8695/ad7198/meta">{link}</a>.
 
 * Boxun Huang, Steven V. Iasella, Meenal Rathi, Joseph Hassler, Clara O. Ciutara, **Ziwen He**, David C. Morse, and Joseph A. Zasadzinski. "New experiments and models to describe soluble surfactant adsorption above and below the critical micelle concentration." *Journal of Colloid And Interface Science (2024).* Full text available at <a href="https://doi.org/10.1016/j.jcis.2024.07.204">{link}</a>.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ac619c9-0eaa-42b5-8016-f9858fab512e" alt="LysoPC" width="500"><br>
+  <em>Figure: Characterizing adsorption dynamics of soluble surfactants below and above CMC using Microtensiometer </em>
+</p>
+
 * **Ziwen He**, Marufa Akter Upoma, and Min Y. Pack. "Dual nature of volatility on drop wetting dynamics of acetone–isopropanol mixtures on ultrathin smooth oil films." *Physics of Fluids 35, no. 1 (2023).* Full text available at <a href="https://doi.org/10.1063/5.0131299">{link}</a>.
 
+* Tran, Huy, **Ziwen He**, Pooria Pirdavari, and Min Y. Pack. "Interplay of Drop Shedding Mechanisms on High Wettability Contrast Biphilic Stripe-Patterned Surfaces." *Langmuir 39, no. 48 (2023): 17551-17559.* Full text avaiable at <a href="https://doi.org/10.1021/acs.langmuir.3c03042">{link}</a>.
+
+* Tran, Huy, **Ziwen He**, Jordan Sakakeeny, Yue Ling, and Min Y. Pack. "Oscillation dynamics of drops on immiscible thin liquid films." *Langmuir 38, no. 3 (2022): 1243-1251.* Full text avaiable at <a href="https://doi.org/10.1021/acs.langmuir.1c03029">{link}</a>.
+* 
 * **Ziwen He**, Huy Tran, and Min Y. Pack. "Air entrainment dynamics of aqueous polymeric droplets from dilute to semidilute unentangled regimes." *Physics of Fluids 34, no. 11 (2022).* Full text available at <a href="https://doi.org/10.1063/5.0130251">{link}</a>.
 
 * **Ziwen He**, Huy Tran, and Min Y. Pack. "Drop bouncing dynamics on ultrathin films." *Langmuir 37, no. 33 (2021): 10135-10142.* Full text available at <a href="https://doi.org/10.1021/acs.langmuir.1c01510">{link}</a>.
   
-  
-* Tran, Huy, **Ziwen He**, Pooria Pirdavari, and Min Y. Pack. "Interplay of Drop Shedding Mechanisms on High Wettability Contrast Biphilic Stripe-Patterned Surfaces." *Langmuir 39, no. 48 (2023): 17551-17559.* Full text avaiable at <a href="https://doi.org/10.1021/acs.langmuir.3c03042">{link}</a>.
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/d819cd65-e8cb-41bd-90c0-a7c185442b95" alt="Contact bouncing" width="500"><br>
+  <em>Figure: Contact bouncing on ultrathin water films</em>
+</p>
 
-* Tran, Huy, **Ziwen He**, Jordan Sakakeeny, Yue Ling, and Min Y. Pack. "Oscillation dynamics of drops on immiscible thin liquid films." *Langmuir 38, no. 3 (2022): 1243-1251.* Full text avaiable at <a href="https://doi.org/10.1021/acs.langmuir.1c03029">{link}</a>.
